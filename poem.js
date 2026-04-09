@@ -43,6 +43,11 @@ const poem = `
     Who brave the night and make it work.
     We'll meet again at dawn's first ray,
     With coffee brewed and bugs to slay.
+
+    Then we wake, with a loud beeping noise,
+    The alarm clock mocks our tired poise.
+    "Back to work," it seems to say,
+    As we drag ourselves through another day.
 `;
 
 console.log(poem);
